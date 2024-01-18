@@ -14,3 +14,8 @@
 
 - $${\color{red}Red}$$
 <code style="color : fuchsia">text</code>
+
+
+#0f0[This is green text]
+
+#7fffff00[This is yellow text at 50% opacity]
