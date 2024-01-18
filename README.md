@@ -3,10 +3,10 @@
 
 
 ## ${{\color{Goldenrod}\Huge{\textsf{VAC BYPASS - ENERO - 2024}}}}\$
-- ${{\color{Fuchsia}\Huge{\textsf{CS2 FUCKERS 2024 - VAC Bypass Loader.exe}}}}\$ **** (By Daniel Krupiński) (https://github.com/danielkrupinski/VAC-Bypass)
+- ${{\color{Fuchsia}\Huge{\textsf{CS2 FUCKERS 2024 - VAC Bypass Loader.exe}}}}\$ (By Daniel Krupiński) (https://github.com/danielkrupinski/VAC-Bypass)
 (Compilación / Build: 18/Enero/2024)
 
-- **CS2 FUCKERS 2024 - VAC-Bypass [Solo DLL].dll** (By Daniel Krupiński) (https://github.com/danielkrupinski/VAC-Bypass)
+- ${{\color{Fuchsia}\Huge{\textsf{CS2 FUCKERS 2024 - VAC-Bypass [Solo DLL].dll}}}}\$ (By Daniel Krupiński) (https://github.com/danielkrupinski/VAC-Bypass)
 (Compilación / Build: 18/Enero/2024)
 
 ## ${{\color{Goldenrod}\Huge{\textsf{INYECTORES ENERO - 2024}}}}\$ 
