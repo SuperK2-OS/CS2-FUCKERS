@@ -12,7 +12,7 @@
 ## ${{\color{Goldenrod}\Huge{\textsf{INYECTORES ENERO - 2024}}}}\$ 
 - ${{\color{Fuchsia}\Huge{\textsf{Extreme Injector v.3.7.3 by master131.exe}}}}\$ - Por ahora el único Inyector que funciona para el CS2 es el Extreme Injector v3.7.3 by master131 (En "Settings" ... "Injection Mode" ... Elegid la opción "Manual Map", la última.
 
-- ${{\color{Fuchsia}\Huge{\textsf{Orion.exe}}}}\$Orion.exe [En Desarrollo...]
+- ${{\color{Fuchsia}\Huge{\textsf{Orion.exe}}}}\$ [En Desarrollo...]
  
 ## ${{\color{Goldenrod}\Huge{\textsf{CHEATS / HACKS / .DLLs - ENERO 2024}}}}\$ 
 - ${{\color{Fuchsia}\Huge{\textsf{Osiris.dll}}}}\$ (By Daniel Krupiński) https://github.com/danielkrupinski/Osiris (Compilación / Build: 18/Enero/2024)
