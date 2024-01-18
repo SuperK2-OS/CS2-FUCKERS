@@ -1,4 +1,4 @@
-# CS2-FUCKERS - ARCHIVO ENERO 2024
+# ${{\color{Goldenrod}\Huge{\textsf{  CS2-FUCKERS - ARCHIVO ENERO 2024 \}}}}\$ 
 # Repositorio Público de Cheats, Utilidadese e Inyectores para Counter-Strike 2 (CS2).
 
 # << VAC BYPASS - ENERO - 2024 >>
