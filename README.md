@@ -23,3 +23,6 @@
 #rgb[Text using 3 chars notation (red = f00)]
 #rrggbb[Text using 6 chars notation (red = ff0000)]
 #aarrggbb[Text using 8 chars notation (red = ffff0000)]
+
+
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
