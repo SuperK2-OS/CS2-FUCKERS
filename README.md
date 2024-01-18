@@ -11,4 +11,4 @@
 - Orion.exe [En Desarrollo...]
  
 # << CHEATS / HACKS / .DLLs - ENERO 2024 >>
-- Osiris.dll (By Daniel Krupiński) https://github.com/danielkrupinski/Osiris
+- Osiris.dll (By Daniel Krupiński) https://github.com/danielkrupinski/Osiris (Compilación / Build: 18/Enero/2024)
