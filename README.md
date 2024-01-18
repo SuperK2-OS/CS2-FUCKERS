@@ -1,4 +1,4 @@
-# [CS2-FUCKERS - ARCHIVO ENERO 2024]
+# CS2-FUCKERS - ARCHIVO ENERO 2024
 # Repositorio de Cheats e Inyectores para Counter-Strike 2 (CS2).
 
 # << VAC BYPASS - ENERO - 2024 >>
