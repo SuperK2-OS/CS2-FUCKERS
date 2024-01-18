@@ -17,4 +17,4 @@
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 
-<code style="color : name_color">text</code>
+<code style="color : fuchsia">text</code>
