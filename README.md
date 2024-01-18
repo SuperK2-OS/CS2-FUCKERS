@@ -12,5 +12,5 @@
 # << CHEATS / HACKS / .DLLs - ENERO 2024 >>
 - **Osiris.dll** (By Daniel Krupiński) https://github.com/danielkrupinski/Osiris (Compilación / Build: 18/Enero/2024)
 
-- 
+- $${\color{red}Red}$$
 <code style="color : fuchsia">text</code>
