@@ -14,5 +14,5 @@
 
 - ${{\color{Fuchsia}\Huge{\textsf{Orion.exe}}}}\$ (En Desarrollo... Inyector Seguro Open-Source ... Paciencia)
  
-## ${{\color{Goldenrod}\Huge{\textsf{CHEATS / HACKS / .DLLs - ENERO 2024}}}}\$ 
+## ${{\color{Goldenrod}\Huge{\textsf{CHEATS / HACKS / .DLLs - ENERO 2024}}}}\$ ##
 - ${{\color{Fuchsia}\Huge{\textsf{Osiris.dll}}}}\$ (By Daniel Krupiński) https://github.com/danielkrupinski/Osiris (Compilación / Build: 18/Enero/2024)
