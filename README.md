@@ -4,12 +4,10 @@
 
 
 
-CS2 FUCKERS 2024 - VAC Bypass Loader.exe
-CS2 FUCKERS 2024 - VAC-Bypass [Solo DLL].dll
-Extreme Injector v3.exe
-Añadido Extreme Injector v.3.7.3 by master131
-Orion.exe
-Osiris.dll
-loader.exe
-vac3_inhibitor.dll
-vacbypass.dll
+- CS2 FUCKERS 2024 - VAC Bypass Loader.exe
+- CS2 FUCKERS 2024 - VAC-Bypass [Solo DLL].dll
+- Extreme Injector v3.exe
+- Añadido Extreme Injector v.3.7.3 by master131
+- Orion.exe
+- Osiris.dll
+- vacbypass.dll
